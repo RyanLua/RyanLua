@@ -19,6 +19,8 @@ Here are a few of my favorite languages:
 [C#]: https://github.com/topics/csharp
 [JavaScript]: https://github.com/topics/javascript
 
-## My story on why I'm here
+Thanks for checking me out.
+
+## My Story 📖
 
 I began my journey by learning how to program in [Luau] while **exploring game development** on Roblox. I soon found out and fell in love with the [open-source software](https://en.wikipedia.org/wiki/Open-source_software), where I started to **build my own open-source projects** and to branch out to different platforms. This is where I currently stand, with **several projects that I actively maintain**, while also **contributing to other large projects** on GitHub.
