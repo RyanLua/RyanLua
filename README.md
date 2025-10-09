@@ -7,6 +7,13 @@
 
 I'm Ryan, a full-time student and open-source developer.
 
+Here's a group picture me in Boston, where me and team launched our project, [Slushosphere](https://github.com/RyanLua/Slushosphere), into the stratosphere!
+
+<figure>
+  <img src="assets/apex-group.avif" />
+  <figcaption>I'm the one wearing yellow!</figcaption>
+</figure>
+
 ## Stats 📊
 
 <picture>
