@@ -18,7 +18,7 @@ Here's a group picture of me and my team, along with a bunch of other high schoo
 ## Stats 📊
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=github_dark&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanLua">
 </picture>
