@@ -15,10 +15,10 @@ Here's a group picture of me and my team, along with a bunch of other high schoo
   <figcaption>I'm the one wearing yellow!</figcaption>
 </figure>
 
-## Stats 📊
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true">
 </picture>
