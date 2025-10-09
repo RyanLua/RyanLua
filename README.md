@@ -8,12 +8,28 @@
 
 I'm Ryan, a full-time student and open-source developer.
 
-Here's a group picture of me and my team, along with a bunch of other high schoolers in Boston, where we launched [our project](https://github.com/RyanLua/Slushosphere) into the stratosphere.
+Here's a group picture of me and my team, along with a bunch of other high schoolers in Boston, where we launched [our project] into the stratosphere.
+
+[our project]: https://github.com/RyanLua/Slushosphere
 
 <figure>
   <img src="assets/apex-group.avif" />
   <figcaption>I'm the one wearing yellow!</figcaption>
 </figure>
+
+## About
+
+I began my journey by learning **game development 🎮** on Roblox. I discovered **open-source software 🖥️** and started to build **my own projects 🔨** here on GitHub.
+
+- 🔭 I'm currently working on [Disclip], for saving Discord messages as images
+- 📊 My favorite languages are [Luau], [Python], and [C#]
+- 🤝 The largest experiences on Roblox use [my projects]
+
+[Disclip]: https://github.com/RyanLua/Disclip
+[Luau]: https://github.com/topics/luau
+[Python]: https://github.com/topics/python
+[C#]: https://github.com/topics/csharp
+[my projects]: https://github.com/search?q=owner%3ARyanLua+topic%3Aroblox
 
 ---
 
