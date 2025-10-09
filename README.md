@@ -10,13 +10,7 @@ I'm Ryan, a full-time student and open-source developer.
 ## Stats 📊
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua">
 </picture>
