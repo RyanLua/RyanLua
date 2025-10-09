@@ -17,7 +17,7 @@ Here's a group picture of me and my team, along with a bunch of other high schoo
   <figcaption>I'm the one wearing yellow!</figcaption>
 </figure>
 
-## About
+## About me 📖
 
 I began my journey by learning **game development 🎮** on Roblox. I discovered **open-source software 🖥️** and started to build **my own projects 🔨** here on GitHub.
 
@@ -25,14 +25,14 @@ I began my journey by learning **game development 🎮** on Roblox. I discovered
 - 📊 My favorite languages are [Luau], [Python], and [C#]
 - 🤝 Top experiences on Roblox use [my projects]
 
-[Sponsor me on GitHub] if you want to see me continue maintaining what I love.
+Please consider [sponsoring me on GitHub] if you want to see me continue maintaining what I love.
 
 [Disclip]: https://github.com/RyanLua/Disclip
 [Luau]: https://github.com/topics/luau
 [Python]: https://github.com/topics/python
 [C#]: https://github.com/topics/csharp
 [my projects]: https://github.com/search?q=owner%3ARyanLua+topic%3Aroblox
-[Sponsor me on GitHub]: https://github.com/sponsors/RyanLua
+[sponsoring me on GitHub]: https://github.com/sponsors/RyanLua
 
 ---
 
