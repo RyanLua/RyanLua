@@ -24,3 +24,17 @@ Thanks for checking me out.
 ## My Story 📖
 
 I began my journey by learning how to program in [Luau] while **exploring game development** on Roblox. I soon found out and fell in love with the [open-source software](https://en.wikipedia.org/wiki/Open-source_software), where I started to **build my own open-source projects** and to branch out to different platforms. This is where I currently stand, with **several projects that I actively maintain**, while also **contributing to other large projects** on GitHub.
+
+## Quick Stats 📊
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua" />
+</picture>
