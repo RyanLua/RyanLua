@@ -7,25 +7,7 @@
 
 I'm Ryan, a full-time student and open-source developer.
 
-Here are a few of my favorite languages:
-
-1. [Luau]
-2. [Python]
-3. [C#]
-4. [JavaScript]
-
-[Luau]: https://github.com/topics/luau
-[Python]: https://github.com/topics/python
-[C#]: https://github.com/topics/csharp
-[JavaScript]: https://github.com/topics/javascript
-
-Thanks for checking me out.
-
-## My Story 📖
-
-I began my journey by learning how to program in [Luau] while **exploring game development** on Roblox. I soon found out and fell in love with the [open-source software](https://en.wikipedia.org/wiki/Open-source_software), where I started to **build my own open-source projects** and to branch out to different platforms. This is where I currently stand, with **several projects that I actively maintain**, while also **contributing to other large projects** on GitHub.
-
-## Quick Stats 📊
+## Stats 📊
 
 <picture>
   <source
