@@ -33,7 +33,7 @@ I began my journey by learning how to program in [Luau] while **exploring game d
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=RyanLua"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RyanLua" />
