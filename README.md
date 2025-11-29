@@ -34,11 +34,3 @@ Please consider [sponsoring me on GitHub] if you want to see me continue maintai
 [C#]: https://github.com/topics/csharp
 [my projects]: https://github.com/search?q=owner%3ARyanLua+topic%3Aroblox
 [sponsoring me on GitHub]: https://github.com/sponsors/RyanLua
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanLua&hide_title=true">
-</picture>
