@@ -25,7 +25,7 @@ Here's a group picture of my team and me, along with a bunch of other high schoo
   <figcaption>I'm the one wearing yellow!</figcaption>
 </figure>
 
-Please consider [sponsoring me on GitHub] if you want to see me continue maintaining what I love.
+###### Please consider [sponsoring me on GitHub] if you want to see me continue maintaining what I love.
 
 [Disclip]: https://github.com/RyanLua/Disclip
 [Luau]: https://github.com/topics/luau
