@@ -11,7 +11,7 @@ I'm Ryan, a full-time student and open-source developer.
 
 I started by learning **game development 🎮** on Roblox. I discovered **open-source software 🖥️** and started to build **my own projects 🔨** here on GitHub.
 
-- 🔭 I'm currently working on [Aura Click], an auto clicker with Windows
+- 🔭 I'm currently working on [Aura Click](https://github.com/RyanLua/AuraClick), an auto clicker with Windows
 - 📊 My favorite languages are [Luau], [Python], and [C#]
 - 🤝 Top experiences on Roblox use [my projects]
 
