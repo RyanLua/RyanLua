@@ -11,14 +11,14 @@ I'm Ryan, a full-time student and open-source developer.
 
 I started by learning **game development 🎮** on Roblox. I discovered **open-source software 🖥️** and started to build **my own projects 🔨** here on GitHub.
 
-- 🔭 I'm currently working on [Aura Click](https://github.com/RyanLua/AuraClick), an auto clicker with Windows
+- 🔭 I'm currently working on [Aura Click](https://github.com/ryanlua/auraclick), an auto clicker with Windows
 - 📊 My favorite languages are [Luau], [Python], and [C#]
 - 🤝 Top experiences on Roblox use [my projects]
 
 
 Here's a group picture of my team and me, along with a bunch of other high schoolers in Boston, where we launched [our project] into the stratosphere.
 
-[our project]: https://github.com/RyanLua/Slushosphere
+[our project]: https://github.com/ryanlua/Slushosphere
 
 <figure>
   <img src="assets/apex-group.avif" />
@@ -29,9 +29,9 @@ Here's a group picture of my team and me, along with a bunch of other high schoo
 
 > Please consider [sponsoring me on GitHub] if you want to see me continue maintaining what I love.
 
-[Disclip]: https://github.com/RyanLua/Disclip
+[Disclip]: https://github.com/ryanlua/disclip
 [Luau]: https://github.com/topics/luau
 [Python]: https://github.com/topics/python
 [C#]: https://github.com/topics/csharp
-[my projects]: https://github.com/search?q=owner%3ARyanLua+topic%3Aroblox
-[sponsoring me on GitHub]: https://github.com/sponsors/RyanLua
+[my projects]: https://github.com/search?q=owner%3Aryanlua+topic%3Aroblox
+[sponsoring me on GitHub]: https://github.com/sponsors/ryanlua
