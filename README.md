@@ -7,6 +7,8 @@
 [![Roblox](https://img.shields.io/badge/WinnersTakesAll-335fff?logo=roblox)](https://www.roblox.com/users/345072461)
 [![Spotify](https://img.shields.io/badge/Raen%20Lua-black?logo=spotify)](https://open.spotify.com/user/tn7j8zm0oub2u3op7n4d9c5b5)
 
+> [Read about me on my personal website 🌐](https://ryanluu.dev)
+
 I'm Ryan, a full-time student and open-source developer.
 
 I started by learning **game development 🎮** on Roblox. I discovered **open-source software 🖥️** and started to build **my own projects 🔨** here on GitHub.
